@@ -1,2 +1,2 @@
 # bedd_hry
-hry v pythonu
+hry v pythonu a jiné
